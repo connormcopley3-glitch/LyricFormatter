@@ -1,0 +1,17 @@
+build.gradle.kts
+    src/
+        main/
+             java/
+                 com/
+                     example/
+                             lyricformatter/
+                             MainActivity.kt
+             rsc/
+                drawable/
+                         app_icon.png
+                values/
+                       strings.xml
+                       stlyes.xml
+             AndroidManifest.xml
+    
+    
